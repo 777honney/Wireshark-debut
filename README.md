@@ -33,4 +33,4 @@ Use **HTTPS (TLS)** for any request containing credentials or sensitive data. Wi
 
 ## Tools used
 - [Wireshark](https://www.wireshark.org/) — network traffic capture and analysis
-- Base64 decoding to inspect the `Authorization` header content
+
