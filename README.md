@@ -1,6 +1,6 @@
 # Transport and Data Security
 
-## Context
+## Context 
 This project is part of a lab on transport and data security during my cybersecurity lectures (in my previous Bachelor). The goal was to analyze a network capture file (`twitter.pcap`) using **Wireshark** in order to identify a **security vulnerability**. That was like a ctf, the whole class as to search for it. That was the first step unfortunattely I couldn't find the rest.
 
 ## Methodology
